@@ -15,7 +15,7 @@ If you find the codes useful, please cite our paper:
 ```
 title = "Unveiling the potential of peer-review information in assessing the academic value of publications",
 authors = Jeamin Chung, Seunghyun Lee, Janghyeok Yoon, Wan Jong Kim,
-journal = "",
+journal = ,
 year = ,
-doi = ""
+doi = 
 ```
