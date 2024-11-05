@@ -10,7 +10,7 @@ This is an official dataset for the paper "Unveiling the potential of peer-revie
 - data/dataset_tc.csv: dataset for predicting total citations (n=11,861).
 
 ### Citation
-If you find the codes useful, please cite our paper:
+If you find the dataset useful, please cite our paper:
 
 ```
 title = "Unveiling the potential of peer-review information in assessing the academic value of publications",
